@@ -27,5 +27,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 ## Collaborators
 
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
+- Collaborator Name - [@devGeorgeOwi] - @lagosbuildjobs/stage1 - Position [Lead]
+
 
 
