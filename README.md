@@ -14,7 +14,7 @@ The most important thing! Please update the README.md with your name in collabor
 - Get approvals from other collaborators (if successful, your code gets merged)
 - Congratulations
 
-##### For Designers:
+## For Designers:
 
 - Kindly star the project
 - Open an issue, drop the link to the design (and maybe a screenshot) in the issue
